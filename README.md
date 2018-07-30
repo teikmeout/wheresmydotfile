@@ -21,3 +21,6 @@ the computer what interpreter to use for this file.
 > in the unix world the file extension does not define what the file is, the `#!` indicates
 > to the system what interpreter to use.  
 
+## Running scripts inside a file
+`$ bash filename`
+
